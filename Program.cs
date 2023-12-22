@@ -6,7 +6,8 @@ namespace dockerable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Kris!\n");
+            System.Threading.Thread.Sleep(1000);
         }
     }
 }
